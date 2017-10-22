@@ -18,5 +18,6 @@ public class Practica {
         System.out.println("hola chicos");
         System.out.println("Aquí Edison, probando 1,2,3 confirmen xD");
         System.out.println("Marilyn aqui");
+        System.out.println("Mari aqui");
     }
 }
