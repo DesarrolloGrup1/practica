@@ -16,5 +16,7 @@ public class Practica {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola chicos");
+        System.out.println("Aquí Edison, probando 1,2,3 confirmen xD");
+        System.out.println("Marilyn aqui");
     }
 }
