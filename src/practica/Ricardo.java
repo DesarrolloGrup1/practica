@@ -11,6 +11,6 @@ package practica;
  */
 public class Ricardo {
     public static void main(String[] args) {
-        
+        System.out.println("Hola mundo");
     }
 }
